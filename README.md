@@ -1,4 +1,1 @@
-# new-one
-first one
-<br>
-author -  chahat mehra
+# Gemini AI code Generator 
